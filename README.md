@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gopal Kate</h1>
-<h3 align="center">A passionate Python Developer from India</h3>
+<h3 align="center">A FullStack dev from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopal060&label=Profile%20views&color=0e75b6&style=flat" alt="gopal060" /> </p>
 
-- 🌱 I’m currently learning **DSA, Data Science and ML/AI**
+- 🌱 I’m currently learning **Web development , DSA**
 
 - 📫 How to reach me **gopalrkate@gmail.com**
 
