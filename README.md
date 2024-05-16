@@ -78,6 +78,15 @@
 
 ###
 
-<p align="left">You can find my LinkedIn profile here: linkedin.com/in/gopalkate.<br>Feel free to explore my repositories and contributions!</p>
+<p align="left">You can find my LinkedIn profile here: www.linkedin.com/in/gopalkate<br>Feel free to explore my repositories and contributions!</p>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/gopalkate" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+</div>
 
 ###
