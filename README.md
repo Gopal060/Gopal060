@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🤝 Actively Seeking Internship and Job Opportunities  <br>🌱 Currently Focused on Learning Data Structures and Algorithms  <br>💬 Ask Me About Data Structures and Algorithms , Data Science and Machine Learning</p>
+<p align="left">🤝 Actively Seeking Internship and Job Opportunities  <br>🌱 Currently Focused on Machine Learning, Deep Learning and NLP  <br>💬 Ask me about Machine Learning, Deep Learning and NLP</p>
 
 ###
 
