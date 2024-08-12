@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🤝 Actively Seeking Internship and Job Opportunities  <br>🌱 Currently Focused on Machine Learning, Deep Learning and NLP  <br>💬 Ask me about Machine Learning, Deep Learning and NLP</p>
+<p align="left">🤝 Actively Seeking Internship and Job Opportunities  <br>🌱 Currently Focused on Machine Learning, Deep Learning, NLP and GenAI  <br>💬 Ask me about Machine Learning, Deep Learning, NLP, and GenAI </p>
 
 ###
 
