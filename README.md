@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Graduated from Bharati Vidyapeeth college of Engineering, Pune</p>
+<p align="left">Graduated from Savitribai Phule Pune University</p>
 
 ###
 
